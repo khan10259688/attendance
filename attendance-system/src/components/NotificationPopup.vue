@@ -1,0 +1,2 @@
+<!-- NotificationPopup.vue -->
+<template></template>
